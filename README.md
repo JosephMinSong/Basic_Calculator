@@ -1,4 +1,4 @@
-#Basic Calculator using HTML, CSS, and JavaScript
+# Basic Calculator using HTML, CSS, and JavaScript
 
 Functionalities include:
   - Basic calculator functions such as adding, subtracting, multiplying, and dividing
